@@ -48,10 +48,9 @@ The EFB integrates with the following third-party services to provide its featur
 
 - **vAMSYS** — for pilot identity and flight booking data.
 - **SimBrief** — for operational flight plan (OFP) data, retrieved using your SimBrief username.
-- **Navigraph** — navigation charts are accessed via deep links to your own Navigraph subscription; the EFB does not store or redistribute chart data.
 
 Each of these services has its own privacy policy governing the data they hold.
 
 ## Contact
 
-For any questions about this privacy policy or how the EFB handles your data, please contact the SriLankan Virtual staff team through the virtual airline's official channels.
+For any questions about this privacy policy or how the EFB handles your data, please contact the SriLankan Virtual staff team through a ticket, or other channels in our official discord, which can be found on the home page of Phoenix.
