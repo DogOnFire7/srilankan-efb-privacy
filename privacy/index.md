@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 # Privacy Policy — SriLankan Virtual EFB
 
 **Last updated:** June 2026
